@@ -1,0 +1,6 @@
+id,property_type,region,area_m2,price_usd,lat,lon,state
+1,apartment,Capital Federal,55,120000,-34.6037,-58.3816,published
+2,house,Buenos Aires,140,300000,-34.6158,-58.4333,reserved
+3,apartment,Capital Federal,65,95000,-34.6084,-58.4455,published
+4,store,Córdoba,30,45000,-31.4201,-64.1888,draft
+5,apartment,Capital Federal,48,80000,-34.6206,-58.4302,published
