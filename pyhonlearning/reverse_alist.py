@@ -5,6 +5,5 @@
 numbers = [4, 7, 2, 9, 5]
  
 print("Reversed list:", numbers[::-1])
- 
 largest_number = max(numbers)
 print("Largest number:", largest_number)
